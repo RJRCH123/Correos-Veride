@@ -20,7 +20,7 @@ Cuando el Usuario solicite recuperar o cambiar su contraseña, automaticamente s
 
 | ✅ Verificar Cuenta | 🔐 Recuperación de Cuenta |
 |--|--|
-|<div align="center"><img title='' src="./src/img/verificar-cuenta.png"   alt="" width="100" /></div> |<div align="center"><img title='' src="./src/img/recuperar-contrasena.png"   alt="" width="100" /></div>|
+|<div align="center"><img title='' src="./src/img/verificar-cuenta.png"   alt="" width="400" /></div> |<div align="center"><img title='' src="./src/img/recuperar-contrasena.png"   alt="" width="400" /></div>|
 
 </div>
 
@@ -30,7 +30,7 @@ Cuando el Usuario solicite recuperar o cambiar su contraseña, automaticamente s
 
 | ✅ Verificar Cuenta | 🔐 Recuperación de Cuenta |
 |--|--|
-|<div align="center"><img title='' src="./src/img/mobile-verificarCuenta.png"   alt="" width="100" /></div>|<div align="center"><img title='' src="./src/img/mobile-recuperar.png"   alt="" width="100" /></div>|
+|<div align="center"><img title='' src="./src/img/mobile-verificarCuenta.png"   alt="" width="400" /></div>|<div align="center"><img title='' src="./src/img/mobile-recuperar.png"   alt="" width="400" /></div>|
 
 </div>
 
