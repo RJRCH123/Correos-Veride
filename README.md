@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=VerideCorreos&color=yellow)
 
 # Correos-Veride
-Maquetación para correos de 'recuperar contraseña' y 'verificar contraseña'; complementando al proyecto de Ecommerce 'Veride'
+Maquetación para correos de '🔐 recuperar contraseña' y '✅ verificar contraseña'; complementando al proyecto de Ecommerce 'Veride'
 
 ## Mockup de ambas vistas
 
-## Verificar Cuenta
+## ✅ Verificar Cuenta: Cuando el Usuario solicite crearse una cuenta, automaticamente se enviará un código de verificación al correo con dicha maquetación.
 
 <div align="center">
 
@@ -19,7 +19,7 @@ Maquetación para correos de 'recuperar contraseña' y 'verificar contraseña'; 
 
 </div>
 
-### Recuperación de Cuenta
+### 🔐 Recuperación de Cuenta: Cuando el Usuario solicite recuperar o cambiar su contraseña, automaticamente se enviará un código de verificación al correo con dicha maquetación.
 
 <div align="center">
 
